@@ -40,4 +40,5 @@ Para ejecutar el código en este repositorio, necesitarás tener instalado Pytho
 Puedes instalar estas librerías utilizando `pip`:
 
 ```bash
-pip install numpy pandas matplotlib scipy seaborn scikit-learn
+pip install ...
+
