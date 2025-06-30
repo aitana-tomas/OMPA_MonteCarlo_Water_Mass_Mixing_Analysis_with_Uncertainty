@@ -13,6 +13,7 @@ El enfoque se ha aplicado a los datos de la campaña oceanográfica TRANSMOW, ce
 * `OMPA_MonteCarlo.ipynb`: Cuaderno Jupyter con el código Python para el análisis OMPA y las simulaciones de Monte Carlo.
 * `MEMORIA.pdf`: Memoria del Trabajo de Fin de Grado que describe el proyecto en detalle. 
 * `data/`:  Carpeta para almacenar los datos utilizados en el análisis.
+* Power Point ilustrativo: https://www.canva.com/design/DAGYI79KAsY/5am5WE9DPbopCobngIPd3A/view?utm_content=DAGYI79KAsY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9b73eb83ff 
 
 ## Resumen del proceso
 
